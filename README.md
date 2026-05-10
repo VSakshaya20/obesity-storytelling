@@ -61,7 +61,6 @@ The logistic regression model achieved about 70% accuracy, but it performed bett
 
 ## Team Members and Role
 
-Team members:
 - Akshaya Vijayakumar Sivakami: Data preparation, logistic regression coding
 - Carina Faith Peh Xin Yi: Chi-square test coding
 - Gyanada Chowdary Myneni: Mann-Whitney U test and Kruskal-Wallis test coding
